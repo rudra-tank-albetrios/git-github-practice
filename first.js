@@ -1,2 +1,2 @@
 // Nothing is here 
-// git cli pr create
+// gh cli pr create
